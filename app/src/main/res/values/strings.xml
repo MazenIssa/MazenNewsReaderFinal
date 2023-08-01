@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MazenNewsReader</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="favourites">Favourites</string>
+    <string name="favs_page">Favourites Page</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="type_here">Type here</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="us_can_top_stories">US &amp; Canada Top Stories</string>
+    <string name="world_top_stories">Global Top Stories</string>
+    <string name="welcome">Welcome to the BBC News Reader</string>
+    <string name="app_version">App Version 2.0</string>
+    <string name="drawer_us_can">US &amp; Canada</string>
+    <string name="app_map">Application Map</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="news_room">News Room</string>
+    <string name="newsreader_version">NewsReader Verse. 2.0</string>
+    <string name="select_the_page">Select the page you\'d like to visit to continue</string>
+    <string name="article_pubdate">This article was published on: </string>
+    <string name="delete_message">Do you want to delete this article?</string>
+    <string name="delete">Delete</string>
+    <string name="back_to_favs">Back to Favourites</string>
+    <string name="help_news">Click to access full article. Long click to see more info</string>
+    <string name="more_info">More Information</string>
+    <string name="add_to_favs">Do you want to add this article to your favourites?</string>
+</resources>

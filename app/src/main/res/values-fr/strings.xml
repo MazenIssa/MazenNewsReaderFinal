@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MazenNewsReader</string>
+    <string name="open">Ouvert</string>
+    <string name="close">Fermer</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="favourites">Favoris</string>
+    <string name="favs_page">Page de Favoris</string>
+    <string name="enter_email">Entrez votre adresse email</string>
+    <string name="type_here">Écrivez ici</string>
+    <string name="enter_password">Entrer ton mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="us_can_top_stories">Nouvelles de US &amp; Canada</string>
+    <string name="world_top_stories">Nouvelles du Monde</string>
+    <string name="welcome">Bienvenue au lecteur de nouvelles de la BBC</string>
+    <string name="app_version">App Version 2.0</string>
+    <string name="drawer_us_can">US &amp; Canada</string>
+    <string name="app_map">Aide à la navigation</string>
+    <string name="sign_out">Déconnecter</string>
+    <string name="about">Info</string>
+    <string name="help">Aide</string>
+    <string name="news_room">Salle de Presse</string>
+    <string name="newsreader_version">NewsReader Vers. 2.0</string>
+    <string name="select_the_page">Sélectionnez la page que vous souhaitez visiter pour continuer</string>
+    <string name="article_pubdate">Cet article a été publié le: </string>
+    <string name="delete_message">Voulez-vous supprimer cet article?</string>
+    <string name="delete">Supprimer</string>
+    <string name="back_to_favs">Retour aux favoris</string>
+    <string name="help_news">Cliquez pour accéder à l\'article complet. Cliquez longuement pour voir plus d\'informations</string>
+    <string name="more_info">Plus d\'information</string>
+    <string name="add_to_favs">Voulez-vous ajouter cet article à vos favoris?</string>
+
+</resources>

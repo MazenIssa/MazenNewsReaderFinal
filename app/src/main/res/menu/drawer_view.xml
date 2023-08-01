@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/newsroom"
+            android:icon="@drawable/newsicon"
+            android:title="@string/drawer_us_can"
+            />
+
+        <item
+            android:id="@+id/newsroom2"
+            android:icon="@drawable/newsicon"
+            android:title="@string/world_top_stories"
+            />
+
+        <item
+            android:id="@+id/favourites"
+            android:icon="@drawable/favourite"
+            android:title="@string/favourites"
+            />
+
+        <item
+            android:id="@+id/appMap"
+            android:icon="@drawable/info"
+            android:title="@string/app_map"
+            />
+
+        <item
+            android:id="@+id/signout"
+            android:icon="@drawable/signoutr"
+            android:title="@string/sign_out"
+            />
+    </group>
+</menu>
