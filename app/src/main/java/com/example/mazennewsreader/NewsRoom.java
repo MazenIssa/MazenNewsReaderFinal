@@ -85,9 +85,13 @@ public class NewsRoom extends AppCompatActivity implements NavigationView.OnNavi
         listView.setOnItemLongClickListener((adapterView, view, i, l) -> {
             News selectedItem = newsList.get(i);
             String pubDate = selectedItem.getPubDate();
+            String helpMessage = getResources().getString(R.string.help_news);
+            String moreInfoMessage = getResources().getString(R.string.more_info);
+            String addToFavsMessage = getResources().getString(R.string.add_to_favs);
+
             AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(NewsRoom.this);
-            alertDialogBuilder.setTitle(getResources().getString(R.string.more_info))
-                    .setMessage(getResources().getString(R.string.article_pubdate) + " " + '\n' + '\n' + pubDate + '\n' + '\n' + getResources().getString(R.string.add_to_favs))
+            alertDialogBuilder.setTitle(moreInfoMessage)
+                    .setMessage(helpMessage + "\n\n" + pubDate + "\n\n" + addToFavsMessage)
                     .setPositiveButton(getResources().getString(R.string.yes), (click, arg) -> {
                         try {
                             DbOpener dbOpener = new DbOpener(this);
